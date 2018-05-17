@@ -1,0 +1,8 @@
+C:\Users\GLD\Documents\Programs\C#\WinMgr\WinMgr\bin\Release\WinMgr.exe.config
+C:\Users\GLD\Documents\Programs\C#\WinMgr\WinMgr\bin\Release\WinMgr.exe
+C:\Users\GLD\Documents\Programs\C#\WinMgr\WinMgr\bin\Release\WinMgr.pdb
+C:\Users\GLD\Documents\Programs\C#\WinMgr\WinMgr\obj\Release\WinMgr.Form1.resources
+C:\Users\GLD\Documents\Programs\C#\WinMgr\WinMgr\obj\Release\WinMgr.Properties.Resources.resources
+C:\Users\GLD\Documents\Programs\C#\WinMgr\WinMgr\obj\Release\WinMgr.csproj.GenerateResource.Cache
+C:\Users\GLD\Documents\Programs\C#\WinMgr\WinMgr\obj\Release\WinMgr.exe
+C:\Users\GLD\Documents\Programs\C#\WinMgr\WinMgr\obj\Release\WinMgr.pdb
